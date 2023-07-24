@@ -27,13 +27,14 @@ const styles = StyleSheet.create({
   image: {
     width: 200,
     height: 200,
-    borderRadius: 8,
+    borderRadius: 9,
     marginBottom: 8,
   },
   title: {
     fontSize: 18,
     fontWeight: "bold",
   },
+
 });
 
 export default CardComp;
